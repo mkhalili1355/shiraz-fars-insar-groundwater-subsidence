@@ -1,0 +1,58 @@
+{
+  "noise_windows": {
+    "A_west_control": {
+      "std": 1.9690948724746704,
+      "mean": 1.1973905563354492,
+      "mean_coh": 0.5407640933990479,
+      "n": 9707
+    },
+    "A_east_control": {
+      "std": 2.1558785438537598,
+      "mean": 0.06825269758701324,
+      "mean_coh": 0.4675503075122833,
+      "n": 11937
+    }
+  },
+  "timeseries": {
+    "bowl_lon": 52.87344266279,
+    "bowl_lat": 29.895556949650004,
+    "valid_pixels_5x5": 21,
+    "rate_mm_yr": -96.23855585667242,
+    "rate_se": 0.3846679479254941,
+    "annual_amp_mm": 3.404813140210683,
+    "annual_amp_se": 1.3110266445403198,
+    "n_epochs": 212,
+    "n_eff_epochs": 17.4,
+    "dAICc_linear_minus_annual": -5.840054255817563,
+    "rms_linear": 13.892674887985683,
+    "rms_annual": 13.671300957751692,
+    "rate_uncorrected": -99.37715579137715,
+    "bowl_row": 917,
+    "bowl_col": 1099
+  },
+  "n_eq_in_footprint_window": 284,
+  "n_eq_M4_in_footprint": 68,
+  "largest_in_window": [
+    {
+      "datetime": "2021-07-18 14:34:20",
+      "lat": "29.6598",
+      "lon": "51.1549",
+      "depth": "19.0",
+      "mag": "5.5"
+    },
+    {
+      "datetime": "2018-09-23 05:22:58",
+      "lat": "29.4646",
+      "lon": "52.0293",
+      "depth": "16.0",
+      "mag": "5.3"
+    },
+    {
+      "datetime": "2016-12-18 14:43:33",
+      "lat": "29.4912",
+      "lon": "50.9243",
+      "depth": "10.0",
+      "mag": "5.3"
+    }
+  ]
+}

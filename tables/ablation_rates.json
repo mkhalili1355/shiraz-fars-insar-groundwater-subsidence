@@ -1,0 +1,41 @@
+{
+  "uncorrected": -99.37715579137715,
+  "FILTONLY": -99.08994084748699,
+  "DERAMP": -96.24654846362058,
+  "HGT": -98.27751520350058,
+  "FULL": -96.23855585667242,
+  "spread": 3.138599934704729,
+  "sentence": "The five estimates span 3.1 millimeters per year, so the choice of correction is not the dominant uncertainty at this location; the residual spatially correlated error discussed in Section 5 is.",
+  "detail": {
+    "uncorrected": {
+      "rate": -99.37715579137715,
+      "valid": 25
+    },
+    "FILTONLY": {
+      "rate": -99.08994084748699,
+      "se": 0.5057553083085409,
+      "valid": 21
+    },
+    "DERAMP": {
+      "rate": -96.24654846362058,
+      "se": 0.3978205387840631,
+      "valid": 21
+    },
+    "HGT": {
+      "rate": -98.27751520350058,
+      "se": 0.44858143524030414,
+      "valid": 21
+    },
+    "FULL": {
+      "rate": -96.23855585667242,
+      "se": 0.3846679479254941,
+      "valid": 21
+    }
+  },
+  "centre": {
+    "row": 917,
+    "col": 1099,
+    "lat": 29.895556949650004,
+    "lon": 52.87344266279
+  }
+}
