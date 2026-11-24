@@ -1,6 +1,6 @@
 # InSAR profiles distinguish localized deformation near a mapped lineament from broader subsidence in the Marvdasht Plain, southern Zagros, Iran
 
-Derived observations and analysis tables for the revised manuscript. The original rasters, fault geometries, transects, and anomaly-center displacement series remain in their existing directories. The earlier submission and its legacy model tables are documented in [the previous README](README_previous_submission.md).
+Derived observations and analysis tables for the revised manuscript. The original rasters, fault geometries, transects, and anomaly-center displacement series remain in their existing directories.
 
 ## Revised data products
 
@@ -13,4 +13,10 @@ The [revision directory](marvdasht_revision/) contains the reconstructed profile
 * endpoint_sensitivity.csv compares archived processing, unfiltered descending displacement, and GACOS for 2017-2019. short_interval.csv tests regional VMF3 sensitivity for 2023-2024. Height offset 0 is the baseline. Neither comparison gives a formal confidence interval.
 * The published vertical and east-west velocity grids used for comparison are distributed by [Payne et al.](https://doi.org/10.5281/zenodo.13754200). Other inputs include COMET-LiCSAR observations, ESA WorldCover 2021 v200, and [TU Wien VMF3](https://vmf.geo.tuwien.ac.at/products.html). Consult the original providers for their data and terms.
 
-The release preparation contains derived data, not a complete processing environment. No Zenodo DOI has been assigned here.
+## Reproduction
+
+Install the pinned dependencies with `python -m pip install -r requirements.txt`. Run `python scripts/reproduce_profiles.py` from the repository root. The script reads the included georeferenced velocity rasters, mapped traces, archived transects, and displacement series. It writes profiles, along-trace contrasts, covariance model comparisons, temporal sensitivity estimates, and figures to `results/`.
+
+Run `python scripts/reproduce_phase.py` to reconstruct both ascending closure-filtered phase series from the archived patch medians.
+
+The additional geometry, atmospheric, and reference-site tables are derived products. Reprocessing these analyses from SAR observations requires the original LiCSAR and LiCSBAS archives and the atmospheric products described above.
