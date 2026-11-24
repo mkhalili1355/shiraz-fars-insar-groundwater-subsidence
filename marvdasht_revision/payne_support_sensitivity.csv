@@ -1,0 +1,49 @@
+feature,window_start_km,window_end_km,min_common_lines,eligible_bins,field,minimum_km,minimum_mm_yr
+T1 near trace,-3,5,2,9,paper_los,1.0,-28.398609161376953
+T1 near trace,-3,5,2,9,published_vertical,1.0,-33.00084367571799
+T1 near trace,-3,5,2,9,published_projected_los,1.0,-23.495873940195633
+T1 near trace,-3,5,3,9,paper_los,1.0,-28.398609161376953
+T1 near trace,-3,5,3,9,published_vertical,1.0,-33.00084367571799
+T1 near trace,-3,5,3,9,published_projected_los,1.0,-23.495873940195633
+T1 near trace,-3,5,4,9,paper_los,1.0,-28.398609161376953
+T1 near trace,-3,5,4,9,published_vertical,1.0,-33.00084367571799
+T1 near trace,-3,5,4,9,published_projected_los,1.0,-23.495873940195633
+T1 near trace,-3,5,5,6,paper_los,3.0,-9.863294219970703
+T1 near trace,-3,5,5,6,published_vertical,3.0,-9.969009133743233
+T1 near trace,-3,5,5,6,published_projected_los,3.0,-7.330649098669392
+T1 offset,14,30,2,17,paper_los,23.0,-38.64283752441406
+T1 offset,14,30,2,17,published_vertical,23.0,-54.26260720222924
+T1 offset,14,30,2,17,published_projected_los,23.0,-35.160601085381984
+T1 offset,14,30,3,14,paper_los,15.0,-22.701709747314453
+T1 offset,14,30,3,14,published_vertical,19.0,-25.372142820428973
+T1 offset,14,30,3,14,published_projected_los,19.0,-17.46742787250121
+T1 offset,14,30,4,8,paper_los,15.0,-22.701709747314453
+T1 offset,14,30,4,8,published_vertical,19.0,-25.372142820428973
+T1 offset,14,30,4,8,published_projected_los,19.0,-17.46742787250121
+T1 offset,14,30,5,0,paper_los,,
+T1 offset,14,30,5,0,published_vertical,,
+T1 offset,14,30,5,0,published_projected_los,,
+T2 offset,12,25,2,12,paper_los,16.0,-77.20526123046875
+T2 offset,12,25,2,12,published_vertical,20.0,-104.0753053944746
+T2 offset,12,25,2,12,published_projected_los,20.0,-87.41569540269707
+T2 offset,12,25,3,5,paper_los,21.0,-66.37564086914062
+T2 offset,12,25,3,5,published_vertical,21.0,-84.54938103628561
+T2 offset,12,25,3,5,published_projected_los,21.0,-69.42949219914344
+T2 offset,12,25,4,3,paper_los,22.0,-41.90156860351563
+T2 offset,12,25,4,3,published_vertical,22.0,-48.464239473879104
+T2 offset,12,25,4,3,published_projected_los,22.0,-37.303619225017236
+T2 offset,12,25,5,2,paper_los,22.0,-41.90156860351563
+T2 offset,12,25,5,2,published_vertical,22.0,-48.464239473879104
+T2 offset,12,25,5,2,published_projected_los,22.0,-37.303619225017236
+T3 offset,19,31,2,13,paper_los,25.0,-17.82353973388672
+T3 offset,19,31,2,13,published_vertical,25.0,-20.644171482341484
+T3 offset,19,31,2,13,published_projected_los,25.0,-19.401938162404548
+T3 offset,19,31,3,13,paper_los,25.0,-17.82353973388672
+T3 offset,19,31,3,13,published_vertical,25.0,-20.644171482341484
+T3 offset,19,31,3,13,published_projected_los,25.0,-19.401938162404548
+T3 offset,19,31,4,13,paper_los,25.0,-17.82353973388672
+T3 offset,19,31,4,13,published_vertical,25.0,-20.644171482341484
+T3 offset,19,31,4,13,published_projected_los,25.0,-19.401938162404548
+T3 offset,19,31,5,12,paper_los,25.0,-17.82353973388672
+T3 offset,19,31,5,12,published_vertical,25.0,-20.644171482341484
+T3 offset,19,31,5,12,published_projected_los,25.0,-19.401938162404548

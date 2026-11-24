@@ -1,0 +1,38 @@
+{
+  "matching_full_raster": "vel.filt_FULL3",
+  "loop_triangles": 1408,
+  "kazerun": [
+    {
+      "profile": "A1",
+      "east": 0.6832402944564819,
+      "north": -0.11871384084224701,
+      "up": 0.7204788327217102,
+      "nearest_valid_pixel_distance_px": 0.0,
+      "projected_4mm_yr": 0.47485536336898804
+    },
+    {
+      "profile": "A2",
+      "east": 0.6616517305374146,
+      "north": -0.11732801795005798,
+      "up": 0.7405748963356018,
+      "nearest_valid_pixel_distance_px": 0.0,
+      "projected_4mm_yr": 0.46931207180023193
+    },
+    {
+      "profile": "A3",
+      "east": 0.6582425236701965,
+      "north": -0.11712720990180969,
+      "up": 0.743638277053833,
+      "nearest_valid_pixel_distance_px": 0.0,
+      "projected_4mm_yr": 0.46850883960723877
+    },
+    {
+      "profile": "A4",
+      "east": 0.6667493581771851,
+      "north": -0.11813172698020935,
+      "up": 0.7358602285385132,
+      "nearest_valid_pixel_distance_px": 0.0,
+      "projected_4mm_yr": 0.4725269079208374
+    }
+  ]
+}

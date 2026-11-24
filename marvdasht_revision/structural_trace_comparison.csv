@@ -1,0 +1,5 @@
+catalog_id,catalog_name,tentative_label,match_status,n,min_km,median_km,max_km,n_within_2km
+ME_IRCS050,EMME,Sabz-Pushan,tentative - verify,58,23.71718646280824,37.4071387070555,71.31408506079461,0
+ME_IR16s2,EMME,unidentified reverse (N of Shiraz),tentative - verify,58,0.0447504521083878,2.6401862106011293,11.325452096329368,22
+ME_IR74,EMME,Karebas,tentative - verify,58,31.947265817919877,59.56586022743568,106.78110469052345,0
+ME_IRCS054,EMME,Sarvestan,tentative - verify,58,2.9888333559733775,53.38992634514574,110.27131239215831,0

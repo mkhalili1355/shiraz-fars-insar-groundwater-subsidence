@@ -1,0 +1,78 @@
+[
+  {
+    "profile": "T1",
+    "common_bins": 77,
+    "negative_side_bins": 29,
+    "positive_side_bins": 47,
+    "paper_los_minimum": [
+      1.0,
+      -28.398609161376953
+    ],
+    "published_vertical_minimum": [
+      1.0,
+      -33.00084367571799
+    ],
+    "published_projected_los_minimum": [
+      1.0,
+      -23.495873940195633
+    ],
+    "spearman_descriptive": 0.9733687365266311
+  },
+  {
+    "profile": "T2",
+    "common_bins": 87,
+    "negative_side_bins": 50,
+    "positive_side_bins": 36,
+    "paper_los_minimum": [
+      21.0,
+      -66.37564086914062
+    ],
+    "published_vertical_minimum": [
+      21.0,
+      -84.54938103628561
+    ],
+    "published_projected_los_minimum": [
+      21.0,
+      -69.42949219914344
+    ],
+    "spearman_descriptive": 0.932419625282496
+  },
+  {
+    "profile": "T3",
+    "common_bins": 101,
+    "negative_side_bins": 50,
+    "positive_side_bins": 50,
+    "paper_los_minimum": [
+      -50.0,
+      -18.436907958984374
+    ],
+    "published_vertical_minimum": [
+      -50.0,
+      -23.69635086933271
+    ],
+    "published_projected_los_minimum": [
+      25.0,
+      -19.401938162404548
+    ],
+    "spearman_descriptive": 0.8660687245195107
+  },
+  {
+    "profile": "T4",
+    "common_bins": 21,
+    "negative_side_bins": 21,
+    "positive_side_bins": 0,
+    "paper_los_minimum": [
+      -36.0,
+      -1.904380162556966
+    ],
+    "published_vertical_minimum": [
+      -36.0,
+      -4.595797918497282
+    ],
+    "published_projected_los_minimum": [
+      -36.0,
+      -4.833479611779145
+    ],
+    "spearman_descriptive": 0.9649350649350649
+  }
+]
